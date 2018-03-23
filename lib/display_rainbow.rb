@@ -8,7 +8,7 @@ def display_rainbow
   print colors[3].chars.first.upcase + ": " + colors[3] + ", "
   print colors[4].chars.first.upcase + ": " + colors[4] + ", "
   print colors[5].chars.first.upcase + ": " + colors[5] + ", "
-  print colors[6].chars.first.upcase + ": " + colors[6] + ", "
+  print colors[6].chars.first.upcase + ": " + colors[6]
 end
 
 display_rainbow
