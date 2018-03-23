@@ -11,3 +11,5 @@ def display_rainbow
   print colors[5].chars.first.upcase + ": " + colors[5] + ", "
   print colors[6].chars.first.upcase + ": " + colors[6] + ", "
 end
+
+display_rainbow
