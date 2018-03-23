@@ -1,8 +1,7 @@
 # Write your #display_rainbow method here
 
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
-
 def display_rainbow
+  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
   print colors[0].chars.first.upcase + ": " + colors[0] + ", "
   print colors[1].chars.first.upcase + ": " + colors[1] + ", "
   print colors[2].chars.first.upcase + ": " + colors[2] + ", "
